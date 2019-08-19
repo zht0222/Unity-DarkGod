@@ -1,0 +1,13 @@
+D:\WENJIAN\Unity\Projects\DarkGod\Server\Server\bin\Debug\Server.exe.config
+D:\WENJIAN\Unity\Projects\DarkGod\Server\Server\bin\Debug\Server.exe
+D:\WENJIAN\Unity\Projects\DarkGod\Server\Server\bin\Debug\Server.pdb
+D:\WENJIAN\Unity\Projects\DarkGod\Server\Server\bin\Debug\PESocket.dll
+D:\WENJIAN\Unity\Projects\DarkGod\Server\Server\bin\Debug\Protocol.dll
+D:\WENJIAN\Unity\Projects\DarkGod\Server\Server\bin\Debug\Protocol.pdb
+D:\WENJIAN\Unity\Projects\DarkGod\Server\Server\bin\Debug\PESocket.pdb
+D:\WENJIAN\Unity\Projects\DarkGod\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\WENJIAN\Unity\Projects\DarkGod\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\WENJIAN\Unity\Projects\DarkGod\Server\Server\obj\Debug\Server.csproj.CopyComplete
+D:\WENJIAN\Unity\Projects\DarkGod\Server\Server\obj\Debug\Server.exe
+D:\WENJIAN\Unity\Projects\DarkGod\Server\Server\obj\Debug\Server.pdb
+D:\WENJIAN\Unity\Projects\DarkGod\Server\Server\bin\Debug\MySql.Data.dll
